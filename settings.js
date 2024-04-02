@@ -20,7 +20,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'MR USAMA' //ur bot name
-global.ownernumber = '923224304375' //ur owner number
+global.ownernumber = '923225404375' //ur owner number
 global.ownername = '🦄USAMA' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
